@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=plugin-test-app
+Exec=plugin-test-app
+Icon=ar.com.nahuelgomez.PluginTestApp
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

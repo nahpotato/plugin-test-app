@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="plugin-test-app">
+	<schema id="ar.com.nahuelgomez.PluginTestApp" path="/ar/com/nahuelgomez/PluginTestApp/">
+	</schema>
+</schemalist>

@@ -1,0 +1,7 @@
+data/ar.com.nahuelgomez.PluginTestApp.desktop.in
+data/ar.com.nahuelgomez.PluginTestApp.appdata.xml.in
+data/ar.com.nahuelgomez.PluginTestApp.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+

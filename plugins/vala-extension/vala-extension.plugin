@@ -1,0 +1,4 @@
+[Plugin]
+Module=vala-extension.so
+Name=Say Hello
+Description=Displays "Hello World!" on click
